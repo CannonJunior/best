@@ -1,0 +1,14 @@
+{
+  "name": "best",
+  "version": "0.1.0",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./best.ts",
+      "default": "./best.ts"
+    }
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.80.0"
+  }
+}
